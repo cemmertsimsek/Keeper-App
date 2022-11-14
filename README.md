@@ -3,5 +3,4 @@
 ## Dependencies
 - material-ui for additional styling
 
-Checkout my progress via => 
-https://codesandbox.io/s/keeper-app-part-1-cxdrvs?file=/src/index.js
+![](https://media.giphy.com/media/yOX6hg39CFKkwDKwz0/giphy.gif)
