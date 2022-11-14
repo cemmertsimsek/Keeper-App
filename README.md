@@ -1,4 +1,4 @@
-# This is the first completed version of my keeper app project 
+# This is the first completed version of my Keeper App project 
 
 ## Dependencies
 - material-ui for additional styling
